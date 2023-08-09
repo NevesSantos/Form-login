@@ -1,0 +1,9 @@
+body{
+    position: relative;
+    padding: 0;
+    text-align: center;
+    align-items: center;
+    border: solid black;
+    border-radius: 10px;
+
+}
