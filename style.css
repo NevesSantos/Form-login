@@ -1,9 +1,18 @@
-body{
-    position: relative;
-    padding: 0;
-    text-align: center;
-    align-items: center;
-    border: solid black;
-    border-radius: 10px;
-
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0; 
+    background-color: #f0f0f0; 
 }
+
+.container {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+}
+
